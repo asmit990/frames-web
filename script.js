@@ -1,4 +1,4 @@
-// Cursor effect
+
 const crsr = document.querySelector("#cursor");
 const blur = document.querySelector("#cursor-blur");
 
